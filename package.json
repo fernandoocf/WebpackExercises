@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server --progress --colors --inline --hot"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fernando Oliveira",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^1.14.0",
